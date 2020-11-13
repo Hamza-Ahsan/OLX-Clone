@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fac31e23.chunk.css",
+    "main.js": "/static/js/main.dedfe3a6.chunk.js",
+    "main.js.map": "/static/js/main.dedfe3a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f65ea6a2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f65ea6a2.js.map",
+    "static/css/2.275f2336.chunk.css": "/static/css/2.275f2336.chunk.css",
+    "static/js/2.509a05ff.chunk.js": "/static/js/2.509a05ff.chunk.js",
+    "static/js/2.509a05ff.chunk.js.map": "/static/js/2.509a05ff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21c07dc4a73f2f2f2f081691d9b9eebe.js": "/precache-manifest.21c07dc4a73f2f2f2f081691d9b9eebe.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.275f2336.chunk.css.map": "/static/css/2.275f2336.chunk.css.map",
+    "static/css/main.fac31e23.chunk.css.map": "/static/css/main.fac31e23.chunk.css.map",
+    "static/js/2.509a05ff.chunk.js.LICENSE.txt": "/static/js/2.509a05ff.chunk.js.LICENSE.txt",
+    "static/media/OLX_New_Logo.png": "/static/media/OLX_New_Logo.0ff84d25.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/guitar_login.webp": "/static/media/guitar_login.55582e43.webp",
+    "static/media/heart_login.webp": "/static/media/heart_login.120c9565.webp",
+    "static/media/hero_bg_pk.jpg": "/static/media/hero_bg_pk.c653feab.jpg",
+    "static/media/olx mobile app.jpg": "/static/media/olx mobile app.c9bceec4.jpg",
+    "static/media/person_login.webp": "/static/media/person_login.2fa7e284.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65ea6a2.js",
+    "static/css/2.275f2336.chunk.css",
+    "static/js/2.509a05ff.chunk.js",
+    "static/css/main.fac31e23.chunk.css",
+    "static/js/main.dedfe3a6.chunk.js"
+  ]
+}
